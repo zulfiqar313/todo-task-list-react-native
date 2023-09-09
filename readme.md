@@ -13,5 +13,5 @@ npm install
 
 ## Run App
 ```
-npm start
+npx expo start
 ```
